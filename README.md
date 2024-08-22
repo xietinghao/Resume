@@ -10,9 +10,10 @@
 
 ## 工作及教育经历
 
-* 浙江超限智安科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2023.9~2023.11&emsp;&emsp;&emsp;&emsp;&emsp; 安全平行切面-技术岗实习生    
-* 浙江大学&emsp;&emsp;&emsp;&emsp;&emsp;2022.9~至今&emsp;&emsp;&emsp;&emsp; 网络安全-研究生         
-* 浙江大学&emsp;&emsp;&emsp;&emsp;&emsp;2018.9~2022.7&emsp;&emsp;&emsp;&emsp; 地质学-本科  
+* 浙江超限智安科技有限公司&emsp;&emsp;&emsp;2023.09~2023.11&emsp;&emsp;安全平行切面-技术岗实习生    
+* 浙江泰隆商业银行&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2024.08~2024.09&emsp;&emsp;基于OCR-LLM/VLM的图片字段信息提取
+* 浙江大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2022.09~至今&ensp;&emsp;&emsp;&emsp;网络安全-研究生         
+* 浙江大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;2018.09~2022.07&emsp;&emsp;地质学-本科  
 
 ## 专业技能
 
@@ -22,7 +23,7 @@
 * 具备在linux服务器上部署OCR与LLM模型的经验，熟悉linux shell的使用。
 
 ## 实习经历
-1. 浙江泰隆商业银行 信息开发部 - 基于OCR-LLM/VLM模型的图片字段信息提取 202408-202409
+1. 浙江泰隆商业银行 - 基于OCR-LLM/VLM的图片字段信息提取 - 信息开发部 202408-202409
     * 项目功能：输入图像到OCR-LLM流水线或VLM中，得到准确率达标的格式化提取结果。
     * 应用技术：python、OCR、LLM
     * 主要难点：提升单张图片的提取速度与准确率，OCR无法输出格式化数据，而OCR结果直接输入给LLM中推理速度过慢，且VLM的推理速度与准确率均不高。
